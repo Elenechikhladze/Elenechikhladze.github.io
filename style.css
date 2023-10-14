@@ -4,4 +4,7 @@ body {
 .column-picture {
   width: 500px;
 }
+h2 { 
+  text-align: left;
+}
 

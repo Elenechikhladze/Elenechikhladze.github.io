@@ -61,6 +61,7 @@ li a {
   width: 50px;
   text-align: center;
   text-decoration: none;
+border-radius: 50%;
 }
 .fa-instagram {
   background: #d62976;

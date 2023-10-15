@@ -68,7 +68,7 @@ border-radius: 50%;
   color: orange;
 }
 .button {
-  background-color: #c4c785; /* Beige */
+  background-color: #4CAF50; /* Green */
   border: none;
   color: white;
   padding: 15px 32px;
@@ -76,6 +76,7 @@ border-radius: 50%;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+}
 }
 footer  {
 			background-color: #a1cca3;

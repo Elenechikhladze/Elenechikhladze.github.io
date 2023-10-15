@@ -1,4 +1,11 @@
-body{
+body{ 
+			background-image: url('color.jpg');
+			}
+		img {
+			width:310px;
+		
+		
+			}
 	
 .column-picture {
   width: 300px;

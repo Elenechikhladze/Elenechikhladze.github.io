@@ -55,3 +55,14 @@ li a {
   text-decoration: none;
   font-size: 17px;
 }
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa-instagram {
+  background: #d62976;
+  color: orange;
+}

@@ -4,13 +4,19 @@ body{
 		img {
 			width:310px;
 		
-		.header {
-  padding: 60px;
-  text-align: center;
-  background:#a1cca3;
-  color: white;
-  font-size: 30px;
-}
+		header  {
+			background-color: #a1cca3;
+				}
+		header h2 {
+			color: #fff;
+			margin: 0;
+			padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+			text-align: center;
+
+
 			ul {
   list-style: none;
 }

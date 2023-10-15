@@ -1,6 +1,11 @@
-body {
-  background-color: #a1cca3;
-}
+body{
+			background-image: color.jpg;
+			}
+		img {
+			width:310px;
+		
+		
+			}
 .column-picture {
   width: 500px;
 }

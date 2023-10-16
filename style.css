@@ -18,7 +18,7 @@ body{
 
 li {
   display: inline-block;
-  margin-right: 10px; 
+  margin-right: 10px; /* add spacing between items */
 }
 .column-picture {
   width: 300px;
